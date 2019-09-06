@@ -1,0 +1,1378 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://aspenelevators.com/xmlrpc.php">
+	<title>Aspen Elevators &#8211; Lets Go Higher</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Aspen Elevators &raquo; Feed" href="http://aspenelevators.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Aspen Elevators &raquo; Comments Feed" href="http://aspenelevators.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Aspen Elevators &raquo; Home Extended Comments Feed" href="http://aspenelevators.com/home-extended/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/aspenelevators.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.15"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='js_composer_front-css'  href='http://aspenelevators.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://aspenelevators.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='essential-grid-plugin-settings-css'  href='http://aspenelevators.com/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.1.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;ver=4.6.15' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-raleway-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.6.15' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-droid-serif-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=4.6.15' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-montserrat-css'  href='http://fonts.googleapis.com/css?family=Montserrat%3A400%2C700&#038;ver=4.6.15' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://aspenelevators.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//aspenelevators.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//aspenelevators.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.8' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//aspenelevators.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcharming-style-css'  href='http://aspenelevators.com/wp-content/themes/construction/style.css?ver=4.6.15' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcharming-fontawesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-wpc_options-css'  href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic%2C700italic%7CMontserrat%3A400%2C700&#038;subset=latin&#038;ver=1481223989' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var header_fixed_setting = {"fixed_header":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-content/plugins/essential-grid/public/assets/js/lightbox.js?ver=2.1.0.2'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.tools.min.js?ver=2.1.0.2'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/aspenelevators.com","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//aspenelevators.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.8'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=4.12.1'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-content/themes/construction/assets/js/modernizr.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-content/themes/construction/assets/js/libs.js?ver=4.6.15'></script>
+<link rel='https://api.w.org/' href='http://aspenelevators.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aspenelevators.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aspenelevators.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.15" />
+<meta name="generator" content="WooCommerce 2.6.8" />
+<link rel="canonical" href="http://aspenelevators.com/" />
+<link rel='shortlink' href='http://aspenelevators.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://aspenelevators.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Faspenelevators.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://aspenelevators.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Faspenelevators.com%2F&#038;format=xml" />
+		<script type="text/javascript">
+			var ajaxRevslider;
+			
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '1f958037e1';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://aspenelevators.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<!--[if lt IE 9]><script src="http://aspenelevators.com/wp-content/themes/construction/assets/js/html5.min.js"></script><![endif]-->
+<style id="theme_option_custom_css" type="text/css">
+ 
+</style>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://aspenelevators.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://aspenelevators.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style type="text/css" title="dynamic-css" class="options-output">.site-header .site-branding{margin-top:20px;margin-right:0;margin-bottom:0;margin-left:0;}.page-title-wrap{background-color:#f8f9f9;}a, .primary-color, .wpc-menu a:hover, .wpc-menu > li.current-menu-item > a, .wpc-menu > li.current-menu-ancestor > a,
+                                                       .entry-footer .post-categories li a:hover, .entry-footer .post-tags li a:hover,
+                                                       .heading-404, .grid-item .grid-title a:hover, .widget a:hover, .widget #calendar_wrap a, .widget_recent_comments a,
+                                                       #secondary .widget.widget_nav_menu ul li a:hover, #secondary .widget.widget_nav_menu ul li li a:hover, #secondary .widget.widget_nav_menu ul li li li a:hover,
+                                                       #secondary .widget.widget_nav_menu ul li.current-menu-item a, .woocommerce ul.products li.product .price, .woocommerce .star-rating,
+                                                       .iconbox-wrapper .iconbox-icon .primary, .iconbox-wrapper .iconbox-image .primary, .iconbox-wrapper a:hover,
+                                                       .breadcrumbs a:hover, #comments .comment .comment-wrapper .comment-meta .comment-time:hover, #comments .comment .comment-wrapper .comment-meta .comment-reply-link:hover, #comments .comment .comment-wrapper .comment-meta .comment-edit-link:hover,
+                                                       .nav-toggle-active i, .header-transparent .header-right-wrap .extract-element .phone-text, .site-header .header-right-wrap .extract-element .phone-text,
+                                                       .wpb_wrapper .wpc-projects-light .esg-navigationbutton:hover, .wpb_wrapper .wpc-projects-light .esg-filterbutton:hover,.wpb_wrapper .wpc-projects-light .esg-sortbutton:hover,.wpb_wrapper .wpc-projects-light .esg-sortbutton-order:hover,.wpb_wrapper .wpc-projects-light .esg-cartbutton-order:hover,.wpb_wrapper .wpc-projects-light .esg-filterbutton.selected,
+                                                       .wpb_wrapper .wpc-projects-dark .esg-navigationbutton:hover, .wpb_wrapper .wpc-projects-dark .esg-filterbutton:hover, .wpb_wrapper .wpc-projects-dark .esg-sortbutton:hover,.wpb_wrapper .wpc-projects-dark .esg-sortbutton-order:hover,.wpb_wrapper .wpc-projects-dark .esg-cartbutton-order:hover, .wpb_wrapper .wpc-projects-dark .esg-filterbutton.selected{color:#fab702;}input[type="reset"], input[type="submit"], input[type="submit"], .wpc-menu ul li a:hover,
+                                                       .wpc-menu ul li.current-menu-item > a, .loop-pagination a:hover, .loop-pagination span:hover,
+                                                       .loop-pagination a.current, .loop-pagination span.current, .footer-social, .tagcloud a:hover, woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,
+                                                       .woocommerce #respond input#submit.alt:hover, .woocommerce #respond input#submit.alt:focus, .woocommerce #respond input#submit.alt:active, .woocommerce a.button.alt:hover, .woocommerce a.button.alt:focus, .woocommerce a.button.alt:active, .woocommerce button.button.alt:hover, .woocommerce button.button.alt:focus, .woocommerce button.button.alt:active, .woocommerce input.button.alt:hover, .woocommerce input.button.alt:focus, .woocommerce input.button.alt:active,
+                                                       .woocommerce span.onsale, .entry-content .wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav li.ui-tabs-active a, .entry-content .wpb_content_element .wpb_accordion_header li.ui-tabs-active a,
+                                                       .entry-content .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active a,
+                                                       .btn, .btn:hover, .btn-primary, .custom-heading .heading-line, .custom-heading .heading-line.primary,
+                                                       .wpb_wrapper .eg-wpc_projects-element-1{background-color:#fab702;}textarea:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="email"]:focus, input[type="month"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="time"]:focus, input[type="url"]:focus, input[type="week"]:focus,
+                                                       .entry-content blockquote, .woocommerce ul.products li.product a img:hover, .woocommerce div.product div.images img:hover{border-color:#fab702;}#secondary .widget.widget_nav_menu ul li.current-menu-item a:before{border-left-color:#fab702;}.secondary-color, .iconbox-wrapper .iconbox-icon .secondary, .iconbox-wrapper .iconbox-image .secondary{color:#00aeef;}.btn-secondary, .custom-heading .heading-line.secondary{background-color:#00aeef;}.hentry.sticky, .entry-content blockquote, .entry-meta .sticky-label,
+                                .entry-author, #comments .comment .comment-wrapper, .page-title-wrap, .widget_wpc_posts ul li,
+                                .inverted-column > .wpb_wrapper, .inverted-row, div.wpcf7-response-output{background-color:#f8f9f9;}hr, abbr, acronym, dfn, table, table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th, table > thead > tr > td, table > tbody > tr > td, table > tfoot > tr > td,
+                                fieldset, select, textarea, input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"],
+                                .left-sidebar .content-area, .left-sidebar .sidebar, .right-sidebar .content-area, .right-sidebar .sidebar,
+                                .site-header, .wpc-menu.wpc-menu-mobile, .wpc-menu.wpc-menu-mobile li, .blog .hentry, .archive .hentry, .search .hentry,
+                                .page-header .page-title, .archive-title, .client-logo img, #comments .comment-list .pingback, .page-title-wrap, .page-header-wrap,
+                                .portfolio-prev i, .portfolio-next i, #secondary .widget.widget_nav_menu ul li.current-menu-item a, .icon-button,
+                                .woocommerce nav.woocommerce-pagination ul, .woocommerce nav.woocommerce-pagination ul li,woocommerce div.product .woocommerce-tabs ul.tabs:before, .woocommerce #content div.product .woocommerce-tabs ul.tabs:before, .woocommerce-page div.product .woocommerce-tabs ul.tabs:before, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs:before,
+                                .woocommerce div.product .woocommerce-tabs ul.tabs li:after, .woocommerce div.product .woocommerce-tabs ul.tabs li:before,
+                                .woocommerce table.cart td.actions .coupon .input-text, .woocommerce #content table.cart td.actions .coupon .input-text, .woocommerce-page table.cart td.actions .coupon .input-text, .woocommerce-page #content table.cart td.actions .coupon .input-text,
+                                .woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register,.shop-elements i, .testimonial .testimonial-content, .breadcrumbs,
+                                .woocommerce-cart .cart-collaterals .cart_totals table td, .woocommerce-cart .cart-collaterals .cart_totals table th,.carousel-prev, .carousel-next,.recent-news-meta,
+                                .woocommerce ul.products li.product a img, .woocommerce div.product div.images img{border-color:#e9e9e9;}.site{background-color:#ffffff;}.layout-boxed{background-color:#333333;}body{font-family:"PT Sans";color:#777777;font-size:14px;}h1,h2,h3,h4,h5,h6, .font-heading{font-family:Montserrat;font-weight:normal;color:#333333;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home page page-id-538 page-template-default header-header-default header-fixed-on header-normal chrome windows wpb-js-composer js-comp-ver-4.12.1 vc_responsive">
+<div id="page" class="hfeed site">
+
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header fixed-on" role="banner">
+		<div class="header-wrap">
+			<div class="container">
+				<div class="site-branding">
+										<a href="http://aspenelevators.com/" title="Aspen Elevators" rel="home">
+						<img src="http://aspenelevators.com/wp-content/uploads/2016/12/Untitled.png" alt="" />
+					</a>
+									</div><!-- /.site-branding -->
+
+				<div class="header-right-wrap clearfix">
+
+					<div class="header-widget">
+						<div class="header-right-widgets clearfix">
+
+							<div class="header-extract clearfix">
+
+																<div class="extract-element">
+									<div class="header-social">
+										<a target="_blank" href="http://twitter.com/aspenelevators" title="Twitter"><i class="fa fa-twitter"></i></a> 										<a target="_blank" href="http://www.facebook.com/aspenelevators" title="Facebook"><i class="fa fa-facebook"></i></a> 										<a target="_blank" href="#" title="Linkedin"><i class="fa fa-linkedin-square"></i></a> 																				<a target="_blank" href="#" title="Google Plus"><i class="fa fa-google-plus"></i></a> 																																																																						<a href="mailto:name@email.com" title="Email"><i class="fa fa-envelope"></i></a> 																			</div>
+								</div>
+								
+																<div class="extract-element">
+									<span class="header-text">Call Now</span> <span class="phone-text primary-color"><a href="tel:+91-8123422771">+91-8123422771</a></span>
+								</div>
+								
+																<div class="extract-element">
+									<span class="header-text">Email:-</span> <span class="phone-text primary-color">info@aspenelevators.com</span>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+						<div id="nav-toggle"><i class="fa fa-bars"></i></div>
+						<ul class="wpc-menu">	
+					   	   <li id="menu-item-514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-514"><a href="http://www.aspenelevators.com/">Home</a></li>
+<li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-837"><a href="http://aspenelevators.com/who-we-are/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-1124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1124"><a href="http://aspenelevators.com/vision-mission/">Vision &#038; Mission</a></li>
+	<li id="menu-item-1127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1127"><a href="http://aspenelevators.com/about-aspen/">About Aspen</a></li>
+</ul>
+</li>
+<li id="menu-item-1185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1185"><a href="http://aspenelevators.com/products/">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-1179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1179"><a href="http://aspenelevators.com/manual-doors/">Manual Doors</a></li>
+	<li id="menu-item-1178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1178"><a href="http://aspenelevators.com/automatic-doors-2/">Automatic Doors</a></li>
+</ul>
+</li>
+<li id="menu-item-840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-840"><a href="http://aspenelevators.com/our-services/">Services</a></li>
+<li id="menu-item-930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-930"><a href="http://aspenelevators.com/projects/">Projects</a></li>
+<li id="menu-item-871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-871"><a href="http://aspenelevators.com/contact-us/">Contact Us</a></li>
+					    </ul>
+					</nav><!-- #site-navigation -->
+				</div>
+			</div>
+			
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+		
+		
+		<div id="content-wrap" class=" full-screen">
+			<div id="primary" class="content-area-full">
+				<main id="main" class="site-main" role="main">
+
+					
+						<article id="post-538" class="post-538 page type-page status-publish hentry">
+
+							<div class="entry-content">
+
+								<div id="wpc_5d718fb3232cf" class="vc_row wpb_row vc_row-fluid  fit-screen">
+		<div class="row_inner_wrapper  clearfix" style="margin-top: -80px;float: left; width: 100%;padding-bottom: 0px;">
+			<div class="row_inner row_fullwidth_content clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element"><link href="http://fonts.googleapis.com/css?family=Montserrat%3A400%2C700" rel="stylesheet" property="stylesheet" type="text/css" media="all" /><link href="http://fonts.googleapis.com/css?family=Montserrat%3A700" rel="stylesheet" property="stylesheet" type="text/css" media="all" /><link href="http://fonts.googleapis.com/css?family=PT+Sans%3A400" rel="stylesheet" property="stylesheet" type="text/css" media="all" /><link href="http://fonts.googleapis.com/css?family=Raleway%3A900" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
+<div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.2.6 auto mode -->
+	<div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.6">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-5" data-transition="fade,parallaxtotop" data-slotamount="7,7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default" data-easeout="default,default" data-masterspeed="300,300"  data-thumb="http://aspenelevators.com/wp-content/uploads/2016/11/cc-2-1b-L-jpg-NXPowerLite-100x50.jpg"  data-rotate="0,0"  data-saveperformance="off"  data-title="Welcome" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://aspenelevators.com/wp-content/uploads/2016/11/cc-2-1b-L-jpg-NXPowerLite.jpg"  alt="" title="cc-2-1b-l-jpg-nxpowerlite"  width="5616" height="3744" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption construction-large   tp-resizeme" 
+			 id="slide-5-layer-1" 
+			 data-x="center" data-hoffset="-48" 
+			 data-y="center" data-voffset="-45" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:1000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+						data-captionhidden="on" 
+
+			style="z-index: 5; white-space: nowrap;border-color:rgba(255, 255, 255, 1.00);">WELCOME </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption construction-medium   tp-resizeme" 
+			 id="slide-5-layer-2" 
+			 data-x="center" data-hoffset="-50" 
+			 data-y="center" data-voffset="22" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:2000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+						data-captionhidden="on" 
+
+			style="z-index: 6; white-space: nowrap; font-size: 30px;font-family:Arial;border-color:rgba(255, 255, 255, 1.00);">Lets go higher with Aspen Elevators. </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption black   tp-resizeme" 
+			 id="slide-5-layer-3" 
+			 data-x="center" data-hoffset="-71" 
+			 data-y="center" data-voffset="76" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 7; white-space: nowrap; font-size: px; line-height: px; font-weight: 700;font-family:Arial;"><a class="btn btn-primary" href="http://aspenelevators.com/who-we-are/">WHO WE ARE »</a> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-6" data-transition="fade,parallaxtotop,crossfade,fadethroughdark" data-slotamount="7,7,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="300,300,default,default"  data-thumb="http://aspenelevators.com/wp-content/uploads/2016/11/Custimised-Products-100x50.jpg"  data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Dream House" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://aspenelevators.com/wp-content/uploads/2016/11/Custimised-Products.jpg"  alt="" title="custimised-products"  width="800" height="500" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption construction-slider-title   tp-resizeme" 
+			 id="slide-6-layer-1" 
+			 data-x="112" 
+			 data-y="center" data-voffset="-171" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:1000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:200;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+						data-captionhidden="on" 
+
+			style="z-index: 5; white-space: nowrap;border-color:rgba(255, 255, 255, 1.00);">Your dream house with modern Elevators </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption construction-small-text   tp-resizeme" 
+			 id="slide-6-layer-2" 
+			 data-x="137" 
+			 data-y="center" data-voffset="-84" 
+						data-width="['442']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:2000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:200;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+						data-captionhidden="on" 
+
+			style="z-index: 6; min-width: 442px; max-width: 442px; white-space: normal; font-size: 20px; color: rgba(10, 10, 10, 1.00);">If you dream of designing a new home that takes full advantage<br> of the unique geography and views of land that you love then why not fully modern Elevators? </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption black   tp-resizeme" 
+			 id="slide-6-layer-3" 
+			 data-x="367" 
+			 data-y="center" data-voffset="82" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:200;" 
+			data-start="450" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 7; white-space: nowrap; font-size: px; line-height: px; font-weight: 700;font-family:Arial;"><a class="btn btn-ghost" href="http://aspenelevators.com/contact-us/">Get A Quote »</a> </div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption black   tp-resizeme" 
+			 id="slide-6-layer-4" 
+			 data-x="130" 
+			 data-y="center" data-voffset="74" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:200;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 8; white-space: nowrap; font-size: px; line-height: px; font-weight: 700;font-family:Arial;"><a class="btn btn-primary" href="http://aspenelevators.com/our-services/">Our Services »</a> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-7" data-transition="fade,parallaxtotop" data-slotamount="7,7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default" data-easeout="default,default" data-masterspeed="300,300"  data-thumb="http://aspenelevators.com/wp-content/uploads/2016/11/2.2.1_STLEVELDOORS_projects_9058_06172011_0-100x50.jpg"  data-rotate="0,0"  data-saveperformance="off"  data-title="Green House" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://aspenelevators.com/wp-content/uploads/2016/11/2.2.1_STLEVELDOORS_projects_9058_06172011_0.jpg"  alt="" title="2-2-1_stleveldoors_projects_9058_06172011_0"  width="1200" height="800" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption construction-slider-title   tp-resizeme" 
+			 id="slide-7-layer-1" 
+			 data-x="50" 
+			 data-y="center" data-voffset="-50" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:1000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+						data-captionhidden="on" 
+
+			style="z-index: 5; white-space: nowrap;border-color:rgba(255, 255, 255, 1.00);">Building a Green house with Modular Elevators </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption construction-small-text   tp-resizeme" 
+			 id="slide-7-layer-2" 
+			 data-x="50" 
+			 data-y="center" data-voffset="20" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:2000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+						data-captionhidden="on" 
+
+			style="z-index: 6; white-space: nowrap;">If you dream of designing a new home that takes full advantage<br> of the unique geography and views of land that you love our </br>modern Elevator Technology. </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption black   tp-resizeme" 
+			 id="slide-7-layer-3" 
+			 data-x="220" 
+			 data-y="center" data-voffset="90" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="450" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 7; white-space: nowrap; font-size: px; line-height: px; font-weight: 100;font-family:Arial;"><a class="btn btn-ghost" href="http://aspenelevators.com/contact-us/">Get A Quote »</a> </div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption black   tp-resizeme" 
+			 id="slide-7-layer-4" 
+			 data-x="50" 
+			 data-y="center" data-voffset="90" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 8; white-space: nowrap; font-size: px; line-height: px; font-weight: 100;font-family:Arial;"><a class="btn btn-primary" href="http://aspenelevators.com/our-services/">Our Services »</a> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-8" data-transition="fade,parallaxtotop" data-slotamount="7,7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default" data-easeout="default,default" data-masterspeed="300,300"  data-thumb="http://aspenelevators.com/wp-content/uploads/2016/11/Home-elevator-1-100x50.jpg"  data-rotate="0,0"  data-saveperformance="off"  data-title="Unique Design" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://aspenelevators.com/wp-content/uploads/2016/11/Home-elevator-1.jpg"  alt="" title="home-elevator-1"  width="3000" height="2000" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption construction-slider-title   tp-resizeme" 
+			 id="slide-8-layer-1" 
+			 data-x="50" 
+			 data-y="center" data-voffset="-50" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:1000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+						data-captionhidden="on" 
+
+			style="z-index: 5; white-space: nowrap;border-color:rgba(255, 255, 255, 1.00);">Unique Design Elevators  </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption construction-small-text   tp-resizeme" 
+			 id="slide-8-layer-2" 
+			 data-x="50" 
+			 data-y="center" data-voffset="20" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:2000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+						data-captionhidden="on" 
+
+			style="z-index: 6; white-space: nowrap;">Get Customized unique design Elevators  <br>  Aspen Elevators will give you amazing design. </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption black   tp-resizeme" 
+			 id="slide-8-layer-3" 
+			 data-x="220" 
+			 data-y="center" data-voffset="90" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="450" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 7; white-space: nowrap; font-size: px; line-height: px; font-weight: 100;font-family:Arial;"><a class="btn btn-ghost" href="http://aspenelevators.com/contact-us/">Get A Quote »</a> </div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption black   tp-resizeme" 
+			 id="slide-8-layer-4" 
+			 data-x="50" 
+			 data-y="center" data-voffset="90" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 8; white-space: nowrap; font-size: px; line-height: px; font-weight: 100;font-family:Arial;"><a class="btn btn-primary" href="http://aspenelevators.com/our-services/">Our Services »</a> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-9" data-transition="fade,parallaxtotop" data-slotamount="7,7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default" data-easeout="default,default" data-masterspeed="300,300"  data-thumb="http://aspenelevators.com/wp-content/uploads/2016/11/2-100x50.jpg"  data-rotate="0,0"  data-saveperformance="off"  data-title="Transparent" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://aspenelevators.com/wp-content/uploads/2016/11/2.jpg"  alt="" title="2"  width="960" height="540" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-9-layer-1" 
+			 data-x="center" data-hoffset="-44" 
+			 data-y="center" data-voffset="-68" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:1000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+						data-captionhidden="on" 
+
+			style="z-index: 5; white-space: nowrap; color: rgba(239, 222, 35, 1.00);">TRANSPARENT ELEVATORS </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption construction-medium   tp-resizeme" 
+			 id="slide-9-layer-2" 
+			 data-x="center" data-hoffset="198" 
+			 data-y="center" data-voffset="-8" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:2000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+						data-captionhidden="on" 
+
+			style="z-index: 6; white-space: nowrap; font-weight: 900;font-family:Arial;border-color:rgba(255, 255, 255, 1.00);">Beauty is in Design </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption black   tp-resizeme" 
+			 id="slide-9-layer-3" 
+			 data-x="center" data-hoffset="192" 
+			 data-y="center" data-voffset="53" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 7; white-space: nowrap; font-size: ; line-height: ; font-weight: ;font-family:Arial;"><a class="btn btn-primary" href="#">WHO WE ARE »</a> </div>
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss=".tp-caption.black,.black{color:#000;text-shadow:none}.tp-caption.Fashion-BigDisplay,.Fashion-BigDisplay{color:rgba(0,0,0,1.00);font-size:60px;line-height:60px;font-weight:900;font-style:normal;font-family:Raleway;padding:0px 0px 0px 0px;text-decoration:none;background-color:transparent;border-color:transparent;border-style:none;border-width:0px;border-radius:0px 0px 0px 0px;letter-spacing:2px}.tp-caption.construction-large,.construction-large{font-size:70px;line-height:40px;font-weight:700;font-family:\"Montserrat\";color:#ffffff;text-decoration:none;background-color:transparent;border-width:0px;border-color:rgb(255,255,255);border-style:none;margin:0px;white-space:nowrap;letter-spacing:13px}.tp-caption.construction-medium,.construction-medium{color:#ffffff;font-weight:700;font-size:20px;line-height:20px;background-color:transparent;text-decoration:none;border-width:0px;border-color:rgb(255,255,255);border-style:none;margin:0px;white-space:nowrap;text-transform:uppercase;letter-spacing:2px}.tp-caption.construction-slider-title,.construction-slider-title{font-size:40px;line-height:40px;font-weight:700;font-family:\"Montserrat\";color:#ffffff;text-decoration:none;background-color:transparent;border-width:0px;border-color:rgb(255,255,255);border-style:none;text-transform:uppercase;letter-spacing:-0.5px;margin:0px;white-space:nowrap}.tp-caption.construction-small-text,.construction-small-text{color:rgba(255,255,255,1.00);font-size:16px;line-height:27px;font-weight:400;font-style:normal;font-family:PT Sans;padding:0 0 0 0px;text-decoration:none;text-align:left;background-color:transparent;border-color:rgba(255,255,255,1.00);border-style:none;border-width:0px;border-radius:0 0 0 0px;margin:0px;white-space:nowrap}";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_2_1');
+					e.gridwidth = [1230];
+					e.gridheight = [500];
+							
+					e.sliderLayout = "auto";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			tpj.noConflict();
+			var revapi2;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_2_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_2_1");
+				}else{
+					revapi2 = tpj("#rev_slider_2_1").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//aspenelevators.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"auto",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"on",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+							onHoverStop:"on",
+							touch:{
+								touchenabled:"on",
+								swipe_threshold: 75,
+								swipe_min_touches: 1,
+								swipe_direction: "horizontal",
+								drag_block_vertical: false
+							}
+							,
+							arrows: {
+								style:"hermes",
+								enable:true,
+								hide_onmobile:true,
+								hide_under:700,
+								hide_onleave:false,
+								tmp:'<div class="tp-arr-allwrapper">	<div class="tp-arr-imgholder"></div>	<div class="tp-arr-titleholder">{{title}}</div>	</div>',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:0,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:0,
+									v_offset:0
+								}
+							}
+						},
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:1230,
+						gridheight:500,
+						lazyType:"none",
+						shadow:0,
+						spinner:"spinner2",
+						stopLoop:"on",
+						stopAfterLoops:0,
+						stopAtSlide:2,
+						shuffle:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:631,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>
+					var htmlDivCss = ' #rev_slider_2_1_wrapper .tp-loader.spinner2{ background-color: #ffffff !important; } ';
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+					</script>
+					<script>
+					var htmlDivCss = unescape(".hermes.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A30px%3B%0A%09height%3A110px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%7D%0A%0A.hermes.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A15px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%20110px%3B%0A%09text-align%3A%20center%3B%0A%20%20%20%20transform%3Atranslatex%280px%29%3B%0A%20%20%20%20-webkit-transform%3Atranslatex%280px%29%3B%0A%20%20%20%20transition%3Aall%200.3s%3B%0A%20%20%20%20-webkit-transition%3Aall%200.3s%3B%0A%7D%0A.hermes.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce824%22%3B%0A%7D%0A.hermes.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce825%22%3B%0A%7D%0A.hermes.tparrows.tp-leftarrow%3Ahover%3Abefore%20%7B%0A%20%20%20%20transform%3Atranslatex%28-20px%29%3B%0A%20%20%20%20-webkit-transform%3Atranslatex%28-20px%29%3B%0A%20%20%20%20%20opacity%3A0%3B%0A%7D%0A.hermes.tparrows.tp-rightarrow%3Ahover%3Abefore%20%7B%0A%20%20%20%20transform%3Atranslatex%2820px%29%3B%0A%20%20%20%20-webkit-transform%3Atranslatex%2820px%29%3B%0A%20%20%20%20%20opacity%3A0%3B%0A%7D%0A%0A.hermes%20.tp-arr-allwrapper%20%7B%0A%20%20%20%20overflow%3Ahidden%3B%0A%20%20%20%20position%3Aabsolute%3B%0A%09width%3A180px%3B%0A%20%20%20%20height%3A140px%3B%0A%20%20%20%20top%3A0px%3B%0A%20%20%20%20left%3A0px%3B%0A%20%20%20%20visibility%3Ahidden%3B%0A%20%20%20%20%20%20-webkit-transition%3A%20-webkit-transform%200.3s%200.3s%3B%0A%20%20transition%3A%20transform%200.3s%200.3s%3B%0A%20%20-webkit-perspective%3A%201000px%3B%0A%20%20perspective%3A%201000px%3B%0A%20%20%20%20%7D%0A.hermes.tp-rightarrow%20.tp-arr-allwrapper%20%7B%0A%20%20%20right%3A0px%3Bleft%3Aauto%3B%0A%20%20%20%20%20%20%7D%0A.hermes.tparrows%3Ahover%20.tp-arr-allwrapper%20%7B%0A%20%20%20visibility%3Avisible%3B%0A%20%20%20%20%20%20%20%20%20%20%7D%0A.hermes%20.tp-arr-imgholder%20%7B%0A%20%20width%3A180px%3Bposition%3Aabsolute%3B%0A%20%20left%3A0px%3Btop%3A0px%3Bheight%3A110px%3B%0A%20%20transform%3Atranslatex%28-180px%29%3B%0A%20%20-webkit-transform%3Atranslatex%28-180px%29%3B%0A%20%20transition%3Aall%200.3s%3B%0A%20%20transition-delay%3A0.3s%3B%0A%7D%0A.hermes.tp-rightarrow%20.tp-arr-imgholder%7B%0A%20%20%20%20transform%3Atranslatex%28180px%29%3B%0A%20%20-webkit-transform%3Atranslatex%28180px%29%3B%0A%20%20%20%20%20%20%7D%0A%20%20%0A.hermes.tparrows%3Ahover%20.tp-arr-imgholder%20%7B%0A%20%20%20transform%3Atranslatex%280px%29%3B%0A%20%20%20-webkit-transform%3Atranslatex%280px%29%3B%20%20%20%20%20%20%20%20%20%20%20%20%0A%7D%0A.hermes%20.tp-arr-titleholder%20%7B%0A%20%20top%3A110px%3B%0A%20%20width%3A180px%3B%0A%20%20text-align%3Aleft%3B%20%0A%20%20display%3Ablock%3B%0A%20%20padding%3A0px%2010px%3B%0A%20%20line-height%3A30px%3B%20background%3A%23000%3B%0A%20%20background%3Argba%280%2C0%2C0%2C0.75%29%3B%0A%20%20color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%20%20font-weight%3A600%3B%20position%3Aabsolute%3B%0A%20%20font-size%3A12px%3B%0A%20%20white-space%3Anowrap%3B%0A%20%20letter-spacing%3A1px%3B%0A%20%20-webkit-transition%3A%20all%200.3s%3B%0A%20%20transition%3A%20all%200.3s%3B%0A%20%20-webkit-transform%3A%20rotatex%28-90deg%29%3B%0A%20%20transform%3A%20rotatex%28-90deg%29%3B%0A%20%20-webkit-transform-origin%3A%2050%25%200%3B%0A%20%20transform-origin%3A%2050%25%200%3B%0A%20%20box-sizing%3Aborder-box%3B%0A%0A%7D%0A.hermes.tparrows%3Ahover%20.tp-arr-titleholder%20%7B%0A%20%20%20%20-webkit-transition-delay%3A%200.6s%3B%0A%20%20transition-delay%3A%200.6s%3B%0A%20%20-webkit-transform%3A%20rotatex%280deg%29%3B%0A%20%20transform%3A%20rotatex%280deg%29%3B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div></div></div></div>
+			</div>
+		</div>
+</div>
+<div id="wpc_5d718fb3407d1" class="vc_row wpb_row vc_row-fluid  ">
+		<div class="row_inner_wrapper  clearfix" style="background-color: #fab702;padding-top: 20px;padding-bottom: 20px;">
+			<div class="row_inner container clearfix">
+				<div class="row_full_center_content clearfix"><div class="mobile-center wpb_column vc_column_container vc_col-sm-9"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3><span style="color: #ffffff; display: block; margin-top: 2px;"><strong>Elevator Installation &amp; Maintenance Since 2008</strong></span></h3>
+
+		</div>
+	</div>
+</div></div></div><div class="mobile-center wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><a title="" target="" href="http://aspenelevators.com/Quote/Aspenelevators.pdf" class="btn  btn-regular btn-ghost right" style="margin-top: 0px;margin-bottom: 0px;">Download Boucher</a></div></div></div>
+				</div>
+			</div>
+		</div>
+</div>
+<div id="wpc_5d718fb3417f5" class="vc_row wpb_row vc_row-fluid  mobile-no-margin-top inverted-row">
+		<div class="row_inner_wrapper  clearfix" style="padding-top: 70px;padding-bottom: 50px;">
+			<div class="row_inner container clearfix">
+				<div class="row_full_center_content clearfix"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_content_element featured-box " >
+			<div class="featured-box-thumb">
+					<a class="popup-video" href="https://www.youtube.com/watch?v=B6usgjKMXz0">
+						<img src="http://aspenelevators.com/wp-content/uploads/2015/02/37-600x300.jpg">
+						<span class="video_icon"><i class="fa fa-play"></i></span>
+					</a>
+			</div>
+			<div class="featured-box-content"><h4>How Do Elevators Work</h4>
+					<div class="featured-box-desc"><p>Most elevators work just like a pulley. A very strong metal rope is joined to the top of the elevator car and goes up through a “sheave” in the engine room above the elevator. The sheave is like a pulley wheel with grooves in it to hold the rope tightly.</p>
+					</div>
+					<div class="featured-box-button">
+						<a title="" target="" href="#" class="">Read More</a>
+					</div>
+			</div>
+	</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_content_element featured-box " >
+			<div class="featured-box-thumb">
+					<a class="popup-video" href="https://www.youtube.com/watch?v=B6usgjKMXz0">
+						<img src="http://aspenelevators.com/wp-content/uploads/2015/02/installation-600x300.png">
+						<span class="video_icon"><i class="fa fa-play"></i></span>
+					</a>
+			</div>
+			<div class="featured-box-content"><h4>Elevators installation Work</h4>
+					<div class="featured-box-desc"><p>Elevator installers often work in cramped quarters inside crawl spaces and machine rooms, and may be exposed to heights in elevator shafts. Installer may be required to work overtime when essential equipment needs repair and are sometimes on call 24 hours a day.</p>
+					</div>
+					<div class="featured-box-button">
+						<a title="" target="" href="#" class="">The Benefits</a>
+					</div>
+			</div>
+	</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_content_element featured-box " >
+			<div class="featured-box-thumb">
+					<a class="popup-video" href="https://www.youtube.com/watch?v=B6usgjKMXz0">
+						<img src="http://aspenelevators.com/wp-content/uploads/2015/02/maintenance2-1-600x300.jpg">
+						<span class="video_icon"><i class="fa fa-play"></i></span>
+					</a>
+			</div>
+			<div class="featured-box-content"><h4>Elevators Maintenance &amp; Repair</h4>
+					<div class="featured-box-desc"><p>Elevator installers and repairers, also called elevator constructors or elevator mechanics, assemble, install, maintain, and replace elevators, escalators, chairlifts, moving walkways, and similar equipment in buildings for better performance.</p>
+					</div>
+					<div class="featured-box-button">
+						<a title="" target="" href="#" class="">The Progress</a>
+					</div>
+			</div>
+	</div></div></div></div>
+				</div>
+			</div>
+		</div>
+</div>
+<div id="wpc_5d718fb3432bc" class="vc_row wpb_row vc_row-fluid  fit-screen">
+		<div class="row_inner_wrapper  clearfix" style="background-color: #222222;padding-top: 60px;padding-bottom: 0px;">
+			<div class="row_inner row_fullwidth_content clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="custom-heading wpb_content_element  text-center">
+		<h2 class="heading-title"  style="color: #ffffff;">Featured Works</h2>
+		<span class="heading-line "style="background-color: #444444"></span>
+	</div><style type="text/css">a.eg-henryharrison-element-1,a.eg-henryharrison-element-2{-webkit-transition:all .4s linear;   -moz-transition:all .4s linear;   -o-transition:all .4s linear;   -ms-transition:all .4s linear;   transition:all .4s linear}.eg-jimmy-carter-element-11 i:before{margin-left:0px; margin-right:0px}.eg-harding-element-17{letter-spacing:1px}.eg-harding-wrapper .esg-entry-media{overflow:hidden; box-sizing:border-box;   -webkit-box-sizing:border-box;   -moz-box-sizing:border-box;   padding:30px 30px 0px 30px}.eg-harding-wrapper .esg-entry-media img{overflow:hidden; border-radius:50%;   -webkit-border-radius:50%;   -moz-border-radius:50%}.eg-ulysses-s-grant-wrapper .esg-entry-media{overflow:hidden; box-sizing:border-box;   -webkit-box-sizing:border-box;   -moz-box-sizing:border-box;   padding:30px 30px 0px 30px}.eg-ulysses-s-grant-wrapper .esg-entry-media img{overflow:hidden; border-radius:50%;   -webkit-border-radius:50%;   -moz-border-radius:50%}.eg-richard-nixon-wrapper .esg-entry-media{overflow:hidden; box-sizing:border-box;   -webkit-box-sizing:border-box;   -moz-box-sizing:border-box;   padding:30px 30px 0px 30px}.eg-richard-nixon-wrapper .esg-entry-media img{overflow:hidden; border-radius:50%;   -webkit-border-radius:50%;   -moz-border-radius:50%}.eg-herbert-hoover-wrapper .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.eg-herbert-hoover-wrapper:hover .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.eg-lyndon-johnson-wrapper .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.eg-lyndon-johnson-wrapper:hover .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.esg-overlay.eg-ronald-reagan-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); background:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}.eg-georgebush-wrapper .esg-entry-cover{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); background:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}.eg-jefferson-wrapper{-webkit-border-radius:5px !important; -moz-border-radius:5px !important; border-radius:5px !important; -webkit-mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC) !important}.eg-monroe-element-1{text-shadow:0px 1px 3px rgba(0,0,0,0.1)}.eg-lyndon-johnson-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); background:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 )}.eg-wilbert-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); background:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 )}.eg-wilbert-wrapper .esg-entry-media img{-webkit-transition:0.4s ease-in-out;  -moz-transition:0.4s ease-in-out;  -o-transition:0.4s ease-in-out;  transition:0.4s ease-in-out;  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.eg-wilbert-wrapper:hover .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.eg-phillie-element-3:after{content:" ";width:0px;height:0px;border-style:solid;border-width:5px 5px 0 5px;border-color:#000 transparent transparent transparent;left:50%;margin-left:-5px; bottom:-5px; position:absolute}.eg-howardtaft-wrapper .esg-entry-media img,.eg-howardtaft-wrapper .esg-media-poster{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.eg-howardtaft-wrapper:hover .esg-entry-media img,.eg-howardtaft-wrapper:hover .esg-media-poster{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.myportfolio-container .added_to_cart.wc-forward{font-family:"Open Sans"; font-size:13px; color:#fff; margin-top:10px}.esgbox-title.esgbox-title-outside-wrap{font-size:15px; font-weight:700; text-align:center}.esgbox-title.esgbox-title-inside-wrap{padding-bottom:10px; font-size:15px; font-weight:700; text-align:center}.esg-content.eg-twitterstream-element-33-a{display:inline-block}.eg-twitterstream-element-35{word-break:break-all}.esg-overlay.eg-twitterstream-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); background:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}.esg-content.eg-facebookstream-element-33-a{display:inline-block}.eg-facebookstream-element-0{word-break:break-all}.esg-overlay.eg-flickrstream-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); background:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rra.eg-henryharrison-element-1,ra.eg-henryharrison-element-2{r -webkit-transition:all .4s linear; r  -moz-transition:all .4s linear; r  -o-transition:all .4s linear; r  -ms-transition:all .4s linear; r  transition:all .4s linear; r}rrr.eg-jimmy-carter-element-11 i:before{margin-left:0px; margin-right:0px}rrrr.eg-harding-element-17{letter-spacing:1px}r.eg-harding-wrapper .esg-entry-media{overflow:hidden; r   box-sizing:border-box;r   -webkit-box-sizing:border-box;r   -moz-box-sizing:border-box;r   padding:30px 30px 0px 30px;r}rr.eg-harding-wrapper .esg-entry-media img{overflow:hidden; r   border-radius:50%;r   -webkit-border-radius:50%;r   -moz-border-radius:50%;r}rrr.eg-ulysses-s-grant-wrapper .esg-entry-media{overflow:hidden; r   box-sizing:border-box;r   -webkit-box-sizing:border-box;r   -moz-box-sizing:border-box;r   padding:30px 30px 0px 30px;r}rr.eg-ulysses-s-grant-wrapper .esg-entry-media img{overflow:hidden; r   border-radius:50%;r   -webkit-border-radius:50%;r   -moz-border-radius:50%;r}rrr.eg-richard-nixon-wrapper .esg-entry-media{overflow:hidden; r   box-sizing:border-box;r   -webkit-box-sizing:border-box;r   -moz-box-sizing:border-box;r   padding:30px 30px 0px 30px;r}rr.eg-richard-nixon-wrapper .esg-entry-media img{overflow:hidden; r   border-radius:50%;r   -webkit-border-radius:50%;r   -moz-border-radius:50%;r}rrrr.eg-herbert-hoover-wrapper .esg-entry-media img{r  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale"); r  filter:gray; r  -webkit-filter:grayscale(100%); r}rr.eg-herbert-hoover-wrapper:hover .esg-entry-media img{r  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");r  -webkit-filter:grayscale(0%)}rrrr.eg-lyndon-johnson-wrapper .esg-entry-media img{r  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale"); r  filter:gray; r  -webkit-filter:grayscale(100%); r}rr.eg-lyndon-johnson-wrapper:hover .esg-entry-media img{r  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");r  -webkit-filter:grayscale(0%)}rrrr.esg-overlay.eg-ronald-reagan-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rrr.eg-georgebush-wrapper .esg-entry-cover{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rrrrr.eg-jefferson-wrapper{-webkit-border-radius:5px !important; -moz-border-radius:5px !important; border-radius:5px !important; -webkit-mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC) !important}rrr.eg-monroe-element-1{text-shadow:0px 1px 3px rgba(0,0,0,0.1)}rrr.eg-lyndon-johnson-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); r}rrr.eg-wilbert-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); r}r.eg-wilbert-wrapper .esg-entry-media img{r -webkit-transition:0.4s ease-in-out;r  -moz-transition:0.4s ease-in-out;r  -o-transition:0.4s ease-in-out;r  transition:0.4s ease-in-out;r  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale"); r  filter:gray; r  -webkit-filter:grayscale(100%); r}rr.eg-wilbert-wrapper:hover .esg-entry-media img{r  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");r  -webkit-filter:grayscale(0%)}rrr.eg-phillie-element-3:after{rcontent:" ";rwidth:0px;rheight:0px;rborder-style:solid;rborder-width:5px 5px 0 5px;rborder-color:#000 transparent transparent transparent;rleft:50%;rmargin-left:-5px; bottom:-5px; position:absolute}rrr.eg-howardtaft-wrapper .esg-entry-media img,.eg-howardtaft-wrapper .esg-media-poster{r  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");r  -webkit-filter:grayscale(0%);r}rr.eg-howardtaft-wrapper:hover .esg-entry-media img,.eg-howardtaft-wrapper:hover .esg-media-poster{r  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale"); r  filter:gray; r  -webkit-filter:grayscale(100%); r}rrr.myportfolio-container .added_to_cart.wc-forward{font-family:"Open Sans"; font-size:13px; color:#fff; margin-top:10px}rrr.esgbox-title.esgbox-title-outside-wrap{font-size:15px; font-weight:700; text-align:center}r.esgbox-title.esgbox-title-inside-wrap{padding-bottom:10px; font-size:15px; font-weight:700; text-align:center}</style>
+<!-- CACHE CREATED FOR: 2 --><style type="text/css">.wpc-projects-dark .navigationbuttons,.wpc-projects-dark .esg-pagination,.wpc-projects-dark .esg-filters{text-align:center}.wpc-projects-dark .esg-filterbutton,.wpc-projects-dark .esg-navigationbutton,.wpc-projects-dark .esg-sortbutton,.wpc-projects-dark .esg-cartbutton,.wpc-projects-dark .esg-selected-filterbutton{color:#999999;  margin-right:20px;  cursor:pointer;  position:relative;  z-index:2;  border:none;  font-size:14px;  font-weight:500;  display:inline-block;  background:transparent;  font-family:"Montserrat",Helvetica,Arial,sans-serif}.wpc-projects-dark .esg-navigationbutton{padding:2px 12px}.wpc-projects-dark .esg-navigationbutton *{color:#000}.wpc-projects-dark .esg-pagination-button:last-child{margin-right:0}.wpc-projects-dark .esg-sortbutton-wrapper,.wpc-projects-dark .esg-cartbutton-wrapper{display:inline-block}.wpc-projects-dark .esg-sortbutton-order,.wpc-projects-dark .esg-cartbutton-order{display:inline-block;  vertical-align:top;  border:none;  width:40px;  line-height:40px;  border-radius:5px;  -moz-border-radius:5px;  -webkit-border-radius:5px;  font-size:12px;  font-weight:700;  color:#999;  cursor:pointer;  background:transparent;  margin-left:5px}.wpc-projects-dark .esg-cartbutton{color:#fff;cursor:default !important}.wpc-projects-dark .esg-cartbutton .esgicon-basket{color:#fff;  font-size:15px;  line-height:15px;  margin-right:10px}.wpc-projects-dark .esg-cartbutton-wrapper{cursor:default !important}.wpc-projects-dark .esg-sortbutton,.wpc-projects-dark .esg-cartbutton{display:inline-block;  position:relative;  cursor:pointer;  margin-right:0px;  border-radius:5px;  -moz-border-radius:5px;  -webkit-border-radius:5px}.wpc-projects-dark .esg-navigationbutton:hover,.wpc-projects-dark .esg-filterbutton:hover,.wpc-projects-dark .esg-sortbutton:hover,.wpc-projects-dark .esg-sortbutton-order:hover,.wpc-projects-dark .esg-cartbutton-order:hover,.wpc-projects-dark .esg-filterbutton.selected{border-color:none;color:#fab702;  background:transparent}.wpc-projects-dark .esg-navigationbutton:hover *{color:#333}.wpc-projects-dark .esg-sortbutton-order.tp-desc:hover{color:#333}.wpc-projects-dark .esg-filter-checked{padding:1px 3px;  color:#cbcbcb;  background:#cbcbcb;  margin-left:7px;  font-size:9px;  font-weight:300;  line-height:9px;  vertical-align:middle}.wpc-projects-dark .esg-filterbutton.selected .esg-filter-checked,.wpc-projects-dark .esg-filterbutton:hover .esg-filter-checked{padding:1px 3px 1px 3px;  color:#fff;  background:#000;  margin-left:7px;  font-size:9px;  font-weight:300;  line-height:9px;  vertical-align:middle}.wpc-projects-dark .esg-navigationbutton{background:transparent;  border:2px solid rgba(255,255,255,0.2);  padding:3px 9px 5px;  border-radius:2px}.wpc-projects-dark .esg-navigationbutton *{color:rgba(255,255,255,0.2);font-size:11px}.wpc-projects-dark .esg-navigationbutton:hover{border-color:rgba(255,255,255,0.5);  background:transparent}.wpc-projects-dark .esg-navigationbutton:hover *{color:rgba(255,255,255,0.5)}</style>
+<style type="text/css">.eg-wpc_projects-element-7{font-size:15px !important; line-height:19px !important; color:#ffffff !important; font-weight:700 !important; padding:0px 0px 0px 0px !important; border-radius:0px 0px 0px 0px !important; background-color:rgba(255,255,255,0) !important; z-index:2 !important; display:block; font-family:"Montserrat" !important; text-transform:uppercase !important}.eg-wpc_projects-element-1{font-size:13px; line-height:30px; color:#ffffff; font-weight:800; padding:2px 15px 3px 15px ; border-radius:2px 2px 2px 2px ; background-color:rgba(250,183,2,1.00); z-index:2 !important; display:block; font-family:"Montserrat"; border-top-width:0px; border-right-width:0px; border-bottom-width:0px; border-left-width:0px; border-color:#617f52; border-style:solid}</style>
+<style type="text/css"></style>
+<style type="text/css">.eg-wpc_projects-element-7-a{display:block !important; text-align:left !important; clear:both !important; margin:10px 0px 20px 20px !important; position:relative !important}</style>
+<style type="text/css">.eg-wpc_projects-element-1-a{display:inline-block; float:left; clear:both; margin:0px 0px 20px 20px ; position:relative}</style>
+<style type="text/css">.eg-wpc_projects-container{background-color:rgba(0,0,0,0.70)}</style>
+<style type="text/css">.eg-wpc_projects-content{background-color:#ffffff; padding:0px 0px 0px 0px; border-width:0px 0px 0px 0px; border-radius:0px 0px 0px 0px; border-color:transparent; border-style:none; text-align:left}</style>
+<style type="text/css">.esg-grid .mainul li.eg-wpc_projects-wrapper{background-color:#ffffff; padding:0px 0px 0px 0px; border-width:0px 0px 0px 0px; border-radius:0px 0px 0px 0px; border-color:transparent; border-style:none}</style>
+<style type="text/css">.esg-grid .mainul li.eg-wpc_projects-wrapper .esg-media-poster{background-size:cover; background-position:center center; background-repeat:no-repeat}</style>
+<!-- THE ESSENTIAL GRID 2.1.0.2 POST -->
+
+<article class="myportfolio-container wpc-projects-dark" id="wpc_projects_dark">
+
+    <div id="esg-grid-2-1" class="esg-grid" style="background-color: transparent;padding: 0px 0px 0px 0px ; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;">
+<article class="esg-filters esg-singlefilters" style="margin-bottom: 0px; text-align: right; "><div class="esg-navigationbutton esg-left  esg-fgc-2"  style="margin-left: 2.5px !important; margin-right: 2.5px !important; display: none;"><i class="eg-icon-left-open"></i></div><div class="esg-navigationbutton esg-right  esg-fgc-2"  style="margin-left: 2.5px !important; margin-right: 2.5px !important; display: none;"><i class="eg-icon-right-open"></i></div></article><div class="esg-clear-no-height"></div><ul>
+<li id="eg-2-post-id-441" class="filterall filter-green-building eg-wpc_projects-wrapper eg-post-id-441" data-date="1423813145">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media"><img src="http://aspenelevators.com/wp-content/uploads/2015/02/Automatic-doors-500x300.jpg" alt="" width="500" height="300"></div>
+
+            <div class="esg-entry-cover">
+
+                <div class="esg-overlay esg-fade eg-wpc_projects-container" data-delay="0"></div>
+
+				<div class="esg-bottom eg-post-441 eg-wpc_projects-element-7-a esg-slideup" data-delay="0"><a class="eg-wpc_projects-element-7 eg-post-441" href="http://aspenelevators.com/project/riverview-green-building/" target="_self">External Installation In Multi Storey Commercial Complex</a></div>
+				<div class="esg-bottom eg-post-441 eg-wpc_projects-element-1-a esg-slideup" data-delay="0.15"><a class="eg-wpc_projects-element-1 eg-post-441" href="http://aspenelevators.com/project/riverview-green-building/" target="_self">Read More</a></div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-2-post-id-439" class="filterall filter-education filter-green-building filter-healthcare eg-wpc_projects-wrapper eg-post-id-439" data-date="1423813913">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media"><img src="http://aspenelevators.com/wp-content/uploads/2015/02/capsule3-600x300.jpg" alt="" width="600" height="300"></div>
+
+            <div class="esg-entry-cover">
+
+                <div class="esg-overlay esg-fade eg-wpc_projects-container" data-delay="0"></div>
+
+				<div class="esg-bottom eg-post-439 eg-wpc_projects-element-7-a esg-slideup" data-delay="0"><a class="eg-wpc_projects-element-7 eg-post-439" href="http://aspenelevators.com/project/magdalen-catholic-school/" target="_self">Levitator installation in a Bunglow</a></div>
+				<div class="esg-bottom eg-post-439 eg-wpc_projects-element-1-a esg-slideup" data-delay="0.15"><a class="eg-wpc_projects-element-1 eg-post-439" href="http://aspenelevators.com/project/magdalen-catholic-school/" target="_self">Read More</a></div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-2-post-id-448" class="filterall filter-green-building eg-wpc_projects-wrapper eg-post-id-448" data-date="1423814035">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media"><img src="http://aspenelevators.com/wp-content/uploads/2015/02/hydraulic-elevators-pic-589x300.png" alt="" width="589" height="300"></div>
+
+            <div class="esg-entry-cover">
+
+                <div class="esg-overlay esg-fade eg-wpc_projects-container" data-delay="0"></div>
+
+				<div class="esg-bottom eg-post-448 eg-wpc_projects-element-7-a esg-slideup" data-delay="0"><a class="eg-wpc_projects-element-7 eg-post-448" href="http://aspenelevators.com/project/chicago-house-with-pool/" target="_self">Hydraulic Elevator System</a></div>
+				<div class="esg-bottom eg-post-448 eg-wpc_projects-element-1-a esg-slideup" data-delay="0.15"><a class="eg-wpc_projects-element-1 eg-post-448" href="http://aspenelevators.com/project/chicago-house-with-pool/" target="_self">Read More</a></div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-2-post-id-450" class="filterall filter-education eg-wpc_projects-wrapper eg-post-id-450" data-date="1423814156">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media"><img src="http://aspenelevators.com/wp-content/uploads/2016/11/2.2.1_STLEVELDOORS_projects_9058_06172011_0-600x300.jpg" alt="" width="600" height="300"></div>
+
+            <div class="esg-entry-cover">
+
+                <div class="esg-overlay esg-fade eg-wpc_projects-container" data-delay="0"></div>
+
+				<div class="esg-bottom eg-post-450 eg-wpc_projects-element-7-a esg-slideup" data-delay="0"><a class="eg-wpc_projects-element-7 eg-post-450" href="http://aspenelevators.com/project/green-house-neighbourhood/" target="_self">Installation in a Commercial Complex</a></div>
+				<div class="esg-bottom eg-post-450 eg-wpc_projects-element-1-a esg-slideup" data-delay="0.15"><a class="eg-wpc_projects-element-1 eg-post-450" href="http://aspenelevators.com/project/green-house-neighbourhood/" target="_self">Read More</a></div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-2-post-id-427" class="filterall filter-education filter-green-building filter-healthcare eg-wpc_projects-wrapper eg-post-id-427" data-date="1478992309">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media"><img src="http://aspenelevators.com/wp-content/uploads/2015/02/home-elevator-250x250.png" alt="" width="217" height="250"></div>
+
+            <div class="esg-entry-cover">
+
+                <div class="esg-overlay esg-fade eg-wpc_projects-container" data-delay="0"></div>
+
+				<div class="esg-bottom eg-post-427 eg-wpc_projects-element-7-a esg-slideup" data-delay="0"><a class="eg-wpc_projects-element-7 eg-post-427" href="http://aspenelevators.com/project/clinical-research-center/" target="_self">Internal Levitator in Duplex Flat</a></div>
+				<div class="esg-bottom eg-post-427 eg-wpc_projects-element-1-a esg-slideup" data-delay="0.15"><a class="eg-wpc_projects-element-1 eg-post-427" href="http://aspenelevators.com/project/clinical-research-center/" target="_self">Read More</a></div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-2-post-id-1114" class="filterall filter-education filter-green-building eg-wpc_projects-wrapper eg-post-id-1114" data-date="1480318264">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media"><img src="http://aspenelevators.com/wp-content/uploads/2015/02/sun_ajubiqokfhqvhzfu-600x300.jpg" alt="" width="600" height="300"></div>
+
+            <div class="esg-entry-cover">
+
+                <div class="esg-overlay esg-fade eg-wpc_projects-container" data-delay="0"></div>
+
+				<div class="esg-bottom eg-post-1114 eg-wpc_projects-element-7-a esg-slideup" data-delay="0"><a class="eg-wpc_projects-element-7 eg-post-1114" href="http://aspenelevators.com/project/commercial-elevators/" target="_self">Commercial Elevators</a></div>
+				<div class="esg-bottom eg-post-1114 eg-wpc_projects-element-1-a esg-slideup" data-delay="0.15"><a class="eg-wpc_projects-element-1 eg-post-1114" href="http://aspenelevators.com/project/commercial-elevators/" target="_self">Read More</a></div>
+           </div>
+   </div>
+
+</li>
+</ul>
+    </div>
+
+</article>
+<div class="clear"></div>
+<script type="text/javascript">
+function eggbfc(winw,resultoption) {
+	var lasttop = winw,
+	lastbottom = 0,
+	smallest =9999,
+	largest = 0,
+	samount = 0,
+	lamoung = 0,
+	lastamount = 0,
+	resultid = 0,
+	resultidb = 0,
+	responsiveEntries = [
+						{ width:1400,amount:3,mmheight:0},
+						{ width:1170,amount:3,mmheight:0},
+						{ width:1024,amount:3,mmheight:0},
+						{ width:960,amount:3,mmheight:0},
+						{ width:778,amount:2,mmheight:0},
+						{ width:640,amount:2,mmheight:0},
+						{ width:480,amount:1,mmheight:0}
+						];
+	if (responsiveEntries!=undefined && responsiveEntries.length>0)
+		jQuery.each(responsiveEntries, function(index,obj) {
+			var curw = obj.width != undefined ? obj.width : 0,
+				cura = obj.amount != undefined ? obj.amount : 0;
+			if (smallest>curw) {
+				smallest = curw;
+				samount = cura;
+				resultidb = index;
+			}
+			if (largest<curw) {
+				largest = curw;
+				lamount = cura;
+			}
+			if (curw>lastbottom && curw<=lasttop) {
+				lastbottom = curw;
+				lastamount = cura;
+				resultid = index;
+			}
+		});
+		if (smallest>winw) {
+			lastamount = samount;
+			resultid = resultidb;
+		}
+		var obj = new Object;
+		obj.index = resultid;
+		obj.column = lastamount;
+		if (resultoption=="id")
+			return obj;
+		else
+			return lastamount;
+	}
+if ("even"=="even") {
+	var coh=0,
+		container = jQuery("#esg-grid-2-1");
+	var	cwidth = container.width(),
+		ar = "4:3",
+		gbfc = eggbfc(jQuery(window).width(),"id"),
+	row = 1;
+ar = ar.split(":");
+aratio=parseInt(ar[0],0) / parseInt(ar[1],0);
+coh = cwidth / aratio;
+coh = coh/gbfc.column*row;
+	var ul = container.find("ul").first();
+	ul.css({display:"block",height:coh+"px"});
+}
+var essapi_2;
+jQuery(document).ready(function() {
+	essapi_2 = jQuery("#esg-grid-2-1").tpessential({
+        gridID:2,
+        layout:"even",
+        forceFullWidth:"off",
+        lazyLoad:"off",
+        row:1,
+        loadMoreAjaxToken:"0bfe933e63",
+        loadMoreAjaxUrl:"http://aspenelevators.com/wp-admin/admin-ajax.php",
+        loadMoreAjaxAction:"Essential_Grid_Front_request_ajax",
+        ajaxContentTarget:"ess-grid-ajax-container-",
+        ajaxScrollToOffset:"0",
+        ajaxCloseButton:"off",
+        ajaxContentSliding:"on",
+        ajaxScrollToOnLoad:"on",
+        ajaxNavButton:"off",
+        ajaxCloseType:"type1",
+        ajaxCloseInner:"false",
+        ajaxCloseStyle:"light",
+        ajaxClosePosition:"tr",
+        space:30,
+        pageAnimation:"fade",
+        paginationScrollToTop:"off",
+        spinner:"spinner2",
+        spinnerColor:"#FFFFFF",
+        evenGridMasonrySkinPusher:"off",
+        lightBoxMode:"single",
+        animSpeed:300,
+        delayBasic:1,
+        mainhoverdelay:1,
+        filterType:"single",
+        showDropFilter:"hover",
+        filterGroupClass:"esg-fgc-2",
+        googleFonts:['Open+Sans:300,400,600,700,800','Raleway:100,200,300,400,500,600,700,800,900','Droid+Serif:400,700','Montserrat:400,700'],
+        aspectratio:"4:3",
+        responsiveEntries: [
+						{ width:1400,amount:3,mmheight:0},
+						{ width:1170,amount:3,mmheight:0},
+						{ width:1024,amount:3,mmheight:0},
+						{ width:960,amount:3,mmheight:0},
+						{ width:778,amount:2,mmheight:0},
+						{ width:640,amount:2,mmheight:0},
+						{ width:480,amount:1,mmheight:0}
+						]
+	});
+
+});
+</script>
+</div></div></div>
+			</div>
+		</div>
+</div>
+<div id="wpc_5d718fb34e794" class="vc_row wpb_row vc_row-fluid  ">
+		<div class="row_inner_wrapper  clearfix" style="padding-top: 60px;padding-bottom: 20px;">
+			<div class="row_inner container clearfix">
+				<div class="row_full_center_content clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="custom-heading wpb_content_element ">
+		<h2 class="heading-title" >What We Do</h2>
+		<span class="heading-line primary"></span>
+	</div></div></div></div>
+				</div>
+			</div>
+		</div>
+</div>
+<div id="wpc_5d718fb34ecd0" class="vc_row wpb_row vc_row-fluid  ">
+		<div class="row_inner_wrapper wpc_row_parallax clearfix" style="padding-top: 150px;padding-bottom: 150px;color: #FFFFFF;" data-bg="http://aspenelevators.com/wp-content/uploads/2015/02/139950280.jpg" data-speed="0.5"><div class="wpc_video_color_overlay" style="background-color:#fab702"></div>
+			<div class="wpc_parallax_bg" style="background-image:http://aspenelevators.com/wp-content/uploads/2015/02/139950280.jpg"></div>
+			<div class="row_inner container clearfix">
+				<div class="row_full_center_content clearfix"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5 class="medium-heading-inverted">Working with us<em><br />
+</em></h5>
+<h1 class="large-heading-inverted"><strong>Elevators Installation and<br />
+Maintenance Since 2008</strong></h1>
+
+		</div>
+	</div>
+<a title="" target=" _blank" href="http://aspenelevators.com/Quote/Aspenelevators.pdf" class="btn  btn-regular btn-ghost" style="margin-top: -20px;">Download Boucher</a></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div>
+				</div>
+			</div>
+		</div>
+</div>
+<div id="wpc_5d718fb34f87b" class="vc_row wpb_row vc_row-fluid inverted-row ">
+		<div class="row_inner_wrapper  clearfix" style="padding-top: 50px;padding-bottom: 30px;">
+			<div class="row_inner container clearfix">
+				<div class="row_full_center_content clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="custom-heading wpb_content_element ">
+		<h2 class="heading-title" >Recent News</h2>
+		<span class="heading-line primary"></span>
+	</div>
+	<div class="child-page-wrapper recent-news-wrapper ">
+					<script type="text/javascript">
+						jQuery(document).ready(function(){
+							"use strict";
+							jQuery(".recent-news-carousel-5d718fb35116b").slick({
+								rtl: false,
+								slidesToShow: 3,
+								autoplay: false ,
+		                        autoplaySpeed: 3000 ,
+		                        speed: 300 ,
+								slidesToScroll: 1,
+								draggable: false,
+								prevArrow: "<span class='carousel-prev'><i class='fa fa-angle-left'></i></span>",
+		        				nextArrow: "<span class='carousel-next'><i class='fa fa-angle-right'></i></span>",
+		        				responsive: [{
+								    breakpoint: 1024,
+								    settings: {
+								    slidesToShow: 3
+								    }
+								},
+								{
+								    breakpoint: 600,
+								    settings: {
+								    slidesToShow: 2
+								    }
+								},
+								{
+								    breakpoint: 480,
+								    settings: {
+								    slidesToShow: 1
+								    }
+								}]
+							});
+						});
+					</script>
+				<div class="grid-wrapper grid-3-columns grid-row recent-news-carousel-5d718fb35116b">
+					<div class="grid-item grid-sm-6 grid-md-4">
+						<div class="grid-thumbnail">
+							<a href="http://aspenelevators.com/2016/11/12/construction-honored-with-agc-best-builders/" title="Professional daily development"><img width="600" height="300" src="http://aspenelevators.com/wp-content/uploads/2015/02/capsule3-600x300.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="capsule3" srcset="http://aspenelevators.com/wp-content/uploads/2015/02/capsule3-600x300.jpg 600w, http://aspenelevators.com/wp-content/uploads/2015/02/capsule3-400x200.jpg 400w, http://aspenelevators.com/wp-content/uploads/2015/02/capsule3-800x400.jpg 800w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+						</div>
+						<h4 class="grid-title"><a href="http://aspenelevators.com/2016/11/12/construction-honored-with-agc-best-builders/" rel="bookmark">Professional daily development</a></h4>
+
+						<div class="recent-news-meta">
+							<span class="post-date"><i class="fa fa-file-text-o"></i> <time class="entry-date published updated" datetime="2016-11-12T09:47:09+00:00">November 12, 2016</time></span>
+							<span class="comments-link"><i class="fa fa-comments-o"></i> <a href="http://aspenelevators.com/2016/11/12/construction-honored-with-agc-best-builders/#respond">No Comments</a></span>
+						</div>
+
+						<p>Last night, Construction was honored to accept a Best Builders Award from the Associated General Contractors of Vermont for the construction ...</p>
+
+						<a class="btn btn-light btn-small" href="http://aspenelevators.com/2016/11/12/construction-honored-with-agc-best-builders/" title="Professional daily development">Read More</a>
+
+					</div>
+					
+					<div class="grid-item grid-sm-6 grid-md-4">
+						<div class="grid-thumbnail">
+							<a href="http://aspenelevators.com/2015/02/12/finding-new-buildings-in-the-dust-of-the-old/" title="Finding New Buildings in the Dust of the Old"><img width="600" height="300" src="http://aspenelevators.com/wp-content/uploads/2015/02/sun_ajubiqokfhqvhzfu-600x300.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="sun_ajubiqokfhqvhzfu" srcset="http://aspenelevators.com/wp-content/uploads/2015/02/sun_ajubiqokfhqvhzfu-600x300.jpg 600w, http://aspenelevators.com/wp-content/uploads/2015/02/sun_ajubiqokfhqvhzfu-400x200.jpg 400w, http://aspenelevators.com/wp-content/uploads/2015/02/sun_ajubiqokfhqvhzfu-800x400.jpg 800w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+						</div>
+						<h4 class="grid-title"><a href="http://aspenelevators.com/2015/02/12/finding-new-buildings-in-the-dust-of-the-old/" rel="bookmark">Finding New Buildings in the Dust of the Old</a></h4>
+
+						<div class="recent-news-meta">
+							<span class="post-date"><i class="fa fa-file-text-o"></i> <time class="entry-date published updated" datetime="2015-02-12T09:53:58+00:00">February 12, 2015</time></span>
+							<span class="comments-link"><i class="fa fa-comments-o"></i> <a href="http://aspenelevators.com/2015/02/12/finding-new-buildings-in-the-dust-of-the-old/#respond">No Comments</a></span>
+						</div>
+
+						<p>With the continued and growing emphasis on sustainability in construction we could be on the verge of a radical shift in how ...</p>
+
+						<a class="btn btn-light btn-small" href="http://aspenelevators.com/2015/02/12/finding-new-buildings-in-the-dust-of-the-old/" title="Finding New Buildings in the Dust of the Old">Read More</a>
+
+					</div>
+					
+					<div class="grid-item grid-sm-6 grid-md-4">
+						<div class="grid-thumbnail">
+							<a href="http://aspenelevators.com/2015/02/12/how-to-build-a-construction-marketing-plan/" title="How To Build A Construction Plan"><img width="600" height="300" src="http://aspenelevators.com/wp-content/uploads/2015/02/elevator-perspective-600x300.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="elevator-perspective" srcset="http://aspenelevators.com/wp-content/uploads/2015/02/elevator-perspective-600x300.jpg 600w, http://aspenelevators.com/wp-content/uploads/2015/02/elevator-perspective-400x200.jpg 400w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+						</div>
+						<h4 class="grid-title"><a href="http://aspenelevators.com/2015/02/12/how-to-build-a-construction-marketing-plan/" rel="bookmark">How To Build A Construction Plan</a></h4>
+
+						<div class="recent-news-meta">
+							<span class="post-date"><i class="fa fa-file-text-o"></i> <time class="entry-date published updated" datetime="2015-02-12T09:50:24+00:00">February 12, 2015</time></span>
+							<span class="comments-link"><i class="fa fa-comments-o"></i> <a href="http://aspenelevators.com/2015/02/12/how-to-build-a-construction-marketing-plan/#respond">No Comments</a></span>
+						</div>
+
+						<p>Learn how to market your contractor business professionally. In depth knowledge of attracting clients with online marketing strategies and deep thinking ...</p>
+
+						<a class="btn btn-light btn-small" href="http://aspenelevators.com/2015/02/12/how-to-build-a-construction-marketing-plan/" title="How To Build A Construction Plan">Read More</a>
+
+					</div>
+					
+					<div class="grid-item grid-sm-6 grid-md-4">
+						<div class="grid-thumbnail">
+							<a href="http://aspenelevators.com/2015/02/12/construction-forklift-buyers-guide/" title="Construction Forklift Buyers Guide"><img width="600" height="300" src="http://aspenelevators.com/wp-content/uploads/2015/02/Elevator-official-600x300.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="elevator-official" srcset="http://aspenelevators.com/wp-content/uploads/2015/02/Elevator-official-600x300.jpg 600w, http://aspenelevators.com/wp-content/uploads/2015/02/Elevator-official-400x200.jpg 400w, http://aspenelevators.com/wp-content/uploads/2015/02/Elevator-official-800x400.jpg 800w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+						</div>
+						<h4 class="grid-title"><a href="http://aspenelevators.com/2015/02/12/construction-forklift-buyers-guide/" rel="bookmark">Construction Forklift Buyers Guide</a></h4>
+
+						<div class="recent-news-meta">
+							<span class="post-date"><i class="fa fa-file-text-o"></i> <time class="entry-date published updated" datetime="2015-02-12T08:54:09+00:00">February 12, 2015</time></span>
+							<span class="comments-link"><i class="fa fa-comments-o"></i> <a href="http://aspenelevators.com/2015/02/12/construction-forklift-buyers-guide/#respond">No Comments</a></span>
+						</div>
+
+						<p>A forklift used at one construction site might not be the best for another. Specific construction tasks vary, as do weight and ...</p>
+
+						<a class="btn btn-light btn-small" href="http://aspenelevators.com/2015/02/12/construction-forklift-buyers-guide/" title="Construction Forklift Buyers Guide">Read More</a>
+
+					</div>
+					
+					<div class="grid-item grid-sm-6 grid-md-4">
+						<div class="grid-thumbnail">
+							<a href="http://aspenelevators.com/2015/02/05/build-a-wood-fired-clay-oven/" title="Build a Wood Fired Clay Oven"><img width="600" height="300" src="http://aspenelevators.com/wp-content/uploads/2015/02/maxresdefault-1-600x300.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="maxresdefault-1" srcset="http://aspenelevators.com/wp-content/uploads/2015/02/maxresdefault-1-600x300.jpg 600w, http://aspenelevators.com/wp-content/uploads/2015/02/maxresdefault-1-400x200.jpg 400w, http://aspenelevators.com/wp-content/uploads/2015/02/maxresdefault-1-800x400.jpg 800w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+						</div>
+						<h4 class="grid-title"><a href="http://aspenelevators.com/2015/02/05/build-a-wood-fired-clay-oven/" rel="bookmark">Build a Wood Fired Clay Oven</a></h4>
+
+						<div class="recent-news-meta">
+							<span class="post-date"><i class="fa fa-file-text-o"></i> <time class="entry-date published updated" datetime="2015-02-05T06:33:09+00:00">February 5, 2015</time></span>
+							<span class="comments-link"><i class="fa fa-comments-o"></i> <a href="http://aspenelevators.com/2015/02/05/build-a-wood-fired-clay-oven/#respond">No Comments</a></span>
+						</div>
+
+						<p>Building a wood fired clay oven is a fun project and when you get done you’ll have fun using it too. ...</p>
+
+						<a class="btn btn-light btn-small" href="http://aspenelevators.com/2015/02/05/build-a-wood-fired-clay-oven/" title="Build a Wood Fired Clay Oven">Read More</a>
+
+					</div>
+					
+				</div>
+	</div></div></div></div>
+				</div>
+			</div>
+		</div>
+</div>
+								
+							</div><!-- .entry-content -->
+
+						</article><!-- #post-## -->
+
+					
+				</main><!-- #main -->
+			</div><!-- #primary -->
+
+			
+		</div> <!-- /#content-wrap -->
+
+
+	</div><!-- #content -->
+	
+	<div class="clear"></div>
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		
+		<div class="footer-connect">
+			<div class="container">
+
+								<div class="footer-social">
+					 <label class="font-heading" for="">Follow us</label> 					<a target="_blank" href="http://twitter.com/aspenelevators" title="Twitter"><i class="fa fa-twitter"></i></a> 					<a target="_blank" href="http://www.facebook.com/aspenelevators" title="Facebook"><i class="fa fa-facebook"></i></a> 					<a target="_blank" href="#" title="Linkedin"><i class="fa fa-linkedin-square"></i></a> 										<a target="_blank" href="#" title="Google Plus"><i class="fa fa-google-plus"></i></a> 					<a target="_blank" href="#" title="Instagram"><i class="fa fa-instagram"></i></a> 																														<a target="_blank" href="mailto:name@email.com" title="Email"><i class="fa fa-envelope"></i></a> 									</div>
+							</div>
+		</div>
+
+		<div class="container">
+			
+						<div class="footer-widgets-area">
+													<div class="sidebar-footer footer-columns footer-4-columns clearfix">
+													<div id="footer-1" class="footer-1 footer-column widget-area" role="complementary">
+								<aside id="text-3" class="widget widget_text"><h3 class="widget-title">About Company</h3>			<div class="textwidget"><p><b>While we manufacture, install, modernize and maintain elevators, escalators, and moving walkways, the heart of our business is problem solving.
+Whether a customer needs a sophisticated elevator system for the tallest building in the world or a simple lift for a two-story home, we are dedicated to providing the safest, most reliable solutions possible..
+
+</p>
+</div>
+		</aside>							</div>
+														<div id="footer-2" class="footer-2 footer-column widget-area" role="complementary">
+															</div>
+														<div id="footer-3" class="footer-3 footer-column widget-area" role="complementary">
+								<aside id="text-4" class="widget widget_text"><h3 class="widget-title">Construction Office</h3>			<div class="textwidget"><div class="contact-info-box">
+	<div class="contact-info-item">
+		<div class="contact-text"><i class="fa fa-map-marker"></i></div>
+		<div class="contact-value"># #35, Brindavan Gardens Main Road,Opp of GVR College, 3rd Lane Guntur-522 002.
+	</div>
+	</div>
+	<div class="contact-info-item">
+		<div class="contact-text"><i class="fa fa-phone"></i></div>
+		<div class="contact-value">+91-8123422771</div> </div>
+<div class="contact-info-item">
+		<div class="contact-text"><i class="fa fa-phone"></i></div>	
+	<div class="contact-info-item">
+		<div class="contact-text"><i class="fa fa-envelope"></i></div>
+		<div class="contact-value"><a href="info@aspenelevators.com">info@aspenelevators.com</a></div>
+	</div>
+	</div>
+</div></div>
+		</aside>							</div>
+														<div id="footer-4" class="footer-4 footer-column widget-area" role="complementary">
+								<aside id="text-5" class="widget widget_text"><h3 class="widget-title">Business Hours</h3>			<div class="textwidget"><div class="contact-info-box">
+<p>Our support available to help you 24 hours a day, seven days a week.</p>
+<ul class="hours">
+<li>Monday-Friday: <span>9am to 5pm</span></li>
+<li>Saturday: <span>10am to 2pm</span></li>
+<li>Sunday: <span>Closed</span></li>
+</ul>
+</div></div>
+		</aside>							</div>
+												</div>
+							</div>
+					</div>
+		<div class="site-info-wrapper">
+			<div class="container">
+				<div class="site-info clearfix">
+					<div class="copy_text">
+						Copyright &copy; 2016 Aspen Elevators - Powered BY <a href="http://www.erreichen.net/" rel="designer">Erreichen Software</a>					</div>
+					<div class="footer-menu">
+						<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-865"><a href="http://aspenelevators.com/our-services/">Our Services</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a href="http://aspenelevators.com/projects/">Projects</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-864"><a href="http://aspenelevators.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-823"><a href="#">Disclaimer</a></li>
+<li id="menu-item-824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-824"><a href="#">Privacy Policy</a></li>
+</ul></div>					</div>
+				</div>
+			</div>
+		</div>
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<div id="btt"><i class="fa fa-angle-double-up"></i></div>
+
+		<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+		<script type='text/javascript' src='http://aspenelevators.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/aspenelevators.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1'></script>
+<script type='text/javascript' src='//aspenelevators.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//aspenelevators.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.8'></script>
+<script type='text/javascript' src='//aspenelevators.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//aspenelevators.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.8'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-content/themes/construction/assets/js/theme.js?ver=4.6.15'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-includes/js/comment-reply.min.js?ver=4.6.15'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-includes/js/wp-embed.min.js?ver=4.6.15'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.12.1'></script>
+<script type='text/javascript' src='http://aspenelevators.com/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.essential.min.js?ver=2.1.0.2'></script>
+</body>
+</html>
