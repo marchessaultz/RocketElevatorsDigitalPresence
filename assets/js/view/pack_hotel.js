@@ -33,10 +33,10 @@
 			_bookingData[1] 	= jQuery("ul.booking-option-list>li>label.radio>input:checked").attr('data-price') 	|| 0;
 
 			// check in date
-			_bookingData[2] 	= jQuery("input#client_checkin").val() 		|| '';
+			//_bookingData[2] 	= jQuery("input#client_checkin").val() 		|| '';
 
 			// check out date
-			_bookingData[3] 	= jQuery("input#client_checkout").val() 	|| '';
+			//_bookingData[3] 	= jQuery("input#client_checkout").val() 	|| '';
 
 			// Total Days [1 by default]
 			_bookingData[4] 	= 1;
@@ -44,7 +44,7 @@
 
 
 			// Calculate checkin-checkout in days when we have both dates (check in/out)
-			if(_bookingData[2] != '' && _bookingData[3] != '') {
+			/*if(_bookingData[2] != '' && _bookingData[3] != '') {
 
 				var timeStampA = Date.parse(_bookingData[2]) / 1000,	// convert checkin to timestamp
 					timeStampB = Date.parse(_bookingData[3]) / 1000,	// convert checkout to timestamp
@@ -57,7 +57,7 @@
 			    	diffDays 	= Math.round(Math.abs((firstDate.getTime() - secondDate.getTime())/(oneDay)));
 
 			    // now we know in days - minimum 1 day, no matter what!
-			    _bookingData[4] = diffDays == 0 ? 1 : diffDays;
+			    _bookingData[4] = diffDays == 0 ? 1 : diffDays;*/
 
 			}
 
@@ -121,7 +121,7 @@
 		// On load
 		_computeBooking();
 
-	}
+	
 
 
 
