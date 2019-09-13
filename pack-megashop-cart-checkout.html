@@ -452,26 +452,26 @@
 						<div class="row corporate">
 							<div class="col-md-6 col-sm-6">
 								<label class="mt-0 fs-14 fw-400" for="billing_firstname">Number of tenant companies</label>
-								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="12"  title="Ten digits code" required/ class="form-control" id = "companie">
+								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="12"  title="Ten digits code" required/ class="form-control" id = "companie" value = "0">
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<label class="mt-0 fs-14 fw-400" for="billing_lastname">Number of floor</label>
-								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="12"  title="Ten digits code" required/ class="form-control" id = "corporate_floor">
+								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="12"  title="Ten digits code" required/ class="form-control" id = "corporate_floor" value = "0">
 							</div>
 						</div>
 
 						<div class="row">
 							<div class="col-md-6 col-sm-6">
 								<label class="mt-0 fs-14 fw-400" for="billing_lastname">Number of basement</label>
-								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id = "corporate_basement">
+								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id = "corporate_basement"value = "0">
 							</div>
 							<div class="col-md-6 col-sm-6">
 									<label class="mt-0 fs-14 fw-400" for="billing_lastname">Number of parking spaces</label>
-									<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id = "corporate_parking">
+									<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id = "corporate_parking"value="0">
 								</div>
 								<div class="col-md-6 col-sm-6">
 										<label class="mt-0 fs-14 fw-400" for="billing_lastname">Maximum number of occupant per floor</label>
-										<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id = "max_occupant_corp">
+										<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id = "max_occupant_corp"value= "0">
 									</div>
 						</div>
 
@@ -534,30 +534,30 @@
 						<div class="row">
 							<div class="col-md-6 col-sm-6">
 								<label class="mt-0 fs-14 fw-400" for="billing_firstname">Number of commerce</label>
-								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="12"  title="Ten digits code" required/ class="form-control" id="hybride">
+								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="12"  title="Ten digits code" required/ class="form-control" id="hybride" value="0">
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<label class="mt-0 fs-14 fw-400" for="billing_lastname">Number of floor</label>
-								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="12"  title="Ten digits code" required/ class="form-control" id="hybride_floor">
+								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="12"  title="Ten digits code" required/ class="form-control" id="hybride_floor" value="0">
 							</div>
 						</div>
 
 						<div class="row">
 							<div class="col-md-6 col-sm-6">
 								<label class="mt-0 fs-14 fw-400" for="billing_lastname">Number of basement</label>
-								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id="hybride_basement">
+								<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id="hybride_basement"value="0">
 							</div>
 							<div class="col-md-6 col-sm-6">
 									<label class="mt-0 fs-14 fw-400" for="billing_lastname">Number of parking spaces</label>
-									<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id="hybride_parking">
+									<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id="hybride_parking" value="0">
 								</div>
 								<div class="col-md-6 col-sm-6">
 										<label class="mt-0 fs-14 fw-400" for="billing_lastname">Maximum number of occupant per floor</label>
-										<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id="max_occupant_hyb">
+										<input type="number" name="number"  pattern="[0-9]{9}" maxlength="10"  title="Ten digits code" required/ class="form-control" id="max_occupant_hyb" value="0">
 									</div>
 									<div class="col-md-6 col-sm-6">
 											<label class="mt-0 fs-14 fw-400" for="billing_lastname">Time of activity per days</label>
-											<input type="number" name="number"  pattern="[0-9]{2}" maxlength="2"  title="Maximum 24 hours" data-maximum-results-for-search="24" required/ class="form-control" id = "activity_time">
+											<input type="number" name="number"  pattern="[0-9]{2}" maxlength="2"  title="Maximum 24 hours" data-maximum-results-for-search="24" required/ class="form-control" id = "activity_time"value="0">
 										</div>
 						</div>
 
@@ -596,7 +596,8 @@
 									<div class="toggle-content">
 										
 										
-
+										<strong  class="float-left">Quantity of levators:</strong>
+										<strong class="float-right nb_elevator_residential"></strong>
 										<hr />
 										
 										<span class="clearfix">
@@ -606,7 +607,7 @@
 
 										<hr />
 
-										<button class="btn btn-primary btn-lg btn-block fs-15" id="submit"><i class="fa fa-mail-forward">SUBMIT</i></button>
+										
 									</div>
 								</div>
 							</div>

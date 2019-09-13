@@ -129,9 +129,8 @@ function collect_data(building_type){
        var price_residential = Math.ceil(nb_column_lifts*nb_elevator_residential*category);
        console.log('price_residential',price_residential)
         
-        
-       
-
+        var qty_elevator_residential = $(".nb_elevator_residential").val(nb_elevator_residential);
+console.log(qty_elevator_residential)
    
 
         //installation cost
@@ -153,12 +152,11 @@ function collect_data(building_type){
                  console.log('installation_cost_excelium_r',installation_cost_excelium_r);
                var total_price_residential_e = installation_cost_excelium_r+price_residential;
               console.log('total_price_residential_e',total_price_residential_e)
-            
-            
+        
   }
-  
-  }
-  return{'installation_cost_excelium_r':installation_cost_excelium_r,
+
+  return{qty_elevator_residential,
+    'installation_cost_excelium_r':installation_cost_excelium_r,
     'total_price_residential_e':total_price_residential_e,
     'total_price_residential_p':total_price_residential_p,
     'installation_cost_premium_r':installation_cost_premium_r,
@@ -235,15 +233,60 @@ var installation_cost_premium = (nb_shaft_commercial*parseFloat($("input[id='pre
      else if(building_type == 'corporate') {
         var nb_companie = $("#companie").val()
          console.log("companie", nb_companie);
-         var nb_floor_corporate = $("#corporate_floor").val()
+         var nb_floor_corporate = parseInt($("#corporate_floor").val())
          console.log("corporate_floor", nb_floor_corporate);
-         var nb_basement_corporate = $("#corporate_basement").val()
+         var nb_basement_corporate = parseInt($("#corporate_basement").val())
          console.log("corporate_basement", nb_basement_corporate);
-         var nb_parking_corporate = $("#corporate_parking").val()
+         var nb_parking_corporate =parseInt($("#corporate_parking").val())
          console.log("corporate_parking", nb_parking_corporate)
-         var max_occupant_corp = $("#max_occupant_corp").val()
+         var max_occupant_corp = parseInt($("#max_occupant_corp").val())
          console.log('max_occupant_corp',max_occupant_corp)
-           return { 'companie': nb_companie,
+          //price
+          var category = parseFloat($("input[name='style']:checked").val());
+        console.log('category',category);
+          var total_occupant_corp = Math.ceil((nb_floor_corporate+nb_basement_corporate)*max_occupant_corp);
+          console.log('total_occupant_corp',total_occupant_corp);
+          var nb_elevator_corporate = Math.ceil(total_occupant_corp/1000);
+          console.log('nb_elevator_corporate',nb_elevator_corporate)
+          var nb_column_corp = Math.ceil(nb_floor_corporate/20);
+          console.log('nb_column_corp',nb_column_corp)
+          var price_corporate =nb_elevator_corporate*parseFloat($("input[name='style']:checked").val());
+          console.log('price_corporate',price_corporate)
+
+         if(parseFloat($("input[id='standard']:checked").val())){
+        var installation_cost_standard_c= (nb_elevator_corporate*parseFloat($("input[id='standard']:checked").val()))*10/100;
+        console.log('installation_cost_standard_c',installation_cost_standard_c)
+var total_price_corporate = installation_cost_standard_c+price_corporate;
+        
+        total_price_corporate.toFixed(2)
+        console.log('total_price_corporate',total_price_corporate)
+   }
+     else if(parseFloat($("input[id='premium']:checked").val())){
+var installation_cost_premium_c = (nb_elevator_corporate*parseFloat($("input[id='premium']:checked").val()))*13/100;
+        console.log('installation_cost_premium_c',installation_cost_premium_c);
+        var total_price_corporate_p = installation_cost_premium_c+price_corporate;
+        console.log('total_price_corporate_p',total_price_corporate_p)
+
+     }
+     else if(parseFloat($("input[id='excelium']:checked").val())){
+      var installation_cost_excelium_c = (nb_elevator_corporate*parseFloat($("input[id='excelium']:checked").val()))*16/100;
+              console.log('installation_cost_excelium_c',installation_cost_excelium_c);
+              var total_price_corporate_e = installation_cost_excelium_c+price_corporate;
+              console.log('total_price_corporate_e',total_price_corporate_e)
+      
+           }
+
+         return {'installation_cost_excelium_c':installation_cost_excelium_c,
+           'total_price_corporate_e':total_price_corporate_e,
+           'total_price_corporate_p':total_price_corporate_p,
+           'installation_cost_premium_c':installation_cost_premium_c,
+           'installation_cost_standard_c':installation_cost_standard_c,
+           'total_price_corporate':total_price_corporate,
+   'price_corporate':price_corporate,
+           'nb_column_corp':nb_column_corp,
+           'nb_elevator_corporate':nb_elevator_corporate,
+           'total_occupant_corp':total_occupant_corp, 
+           'companie': nb_companie,
         'corporate_floor': nb_floor_corporate,
          'corporate_basement': nb_basement_corporate,
          'corporate_parking': nb_parking_corporate,
@@ -252,19 +295,67 @@ var installation_cost_premium = (nb_shaft_commercial*parseFloat($("input[id='pre
     }
 
      else if(building_type == 'hybrid') {
-        var nb_hybride = $("#hybride").val()
+        var nb_hybride = parseInt($("#hybride").val())
          console.log("hybride", nb_hybride);
-         var nb_floor_hybride = $("#hybride_floor").val()
+         var nb_floor_hybride = parseInt($("#hybride_floor").val())
          console.log("hybride_floor", nb_floor_hybride);
-         var nb_basement_hybride = $("#hybride_basement").val()
+         var nb_basement_hybride = parseInt($("#hybride_basement").val())
          console.log("hybride_basement", nb_basement_hybride);
-         var nb_parking_hybride = $("#hybride_parking").val()
+         var nb_parking_hybride = parseInt($("#hybride_parking").val())
          console.log("hybride_parking", nb_parking_hybride);
-         var max_occupant_hyb = $("#max_occupant_hyb").val()
+         var max_occupant_hyb = parseInt($("#max_occupant_hyb").val())
          console.log('max_occupant_hyb',max_occupant_hyb);
-         var activity_time = $("#activity_time").val()
-         console.log('activity_time',activity_time);    
- return {'hybride': nb_hybride,
+         var activity_time = parseInt($("#activity_time").val())
+         console.log('activity_time',activity_time);   
+         
+         //price
+          var category = parseFloat($("input[name='style']:checked").val());
+        console.log('category',category);
+          var total_occupant_hyb = Math.ceil((nb_floor_hybride+nb_basement_hybride)*max_occupant_hyb);
+          console.log('total_occupant_hyb',total_occupant_hyb);
+          var nb_elevator_hybrid = Math.ceil(total_occupant_hyb/1000);
+          console.log('nb_elevator_hybrid',nb_elevator_hybrid)
+          var nb_column_hyb = Math.ceil(nb_floor_hybride/20);
+          console.log('nb_column_hyb',nb_column_hyb)
+          var price_hybrid =nb_elevator_hybrid*parseFloat($("input[name='style']:checked").val());
+          console.log('price_hybrid',price_hybrid)
+
+          if(parseFloat($("input[id='standard']:checked").val())){
+            var installation_cost_standard_h= (nb_elevator_hybrid*parseFloat($("input[id='standard']:checked").val()))*10/100;
+            console.log('installation_cost_standard_h',installation_cost_standard_h)
+    var total_price_hybrid = installation_cost_standard_h+price_hybrid;
+            
+            total_price_hybrid.toFixed(2);
+            console.log('total_price_hybrid',total_price_hybrid)
+       }
+         else if(parseFloat($("input[id='premium']:checked").val())){
+    var installation_cost_premium_h = (nb_elevator_hybrid*parseFloat($("input[id='premium']:checked").val()))*13/100;
+            console.log('installation_cost_premium_h',installation_cost_premium_h);
+            var total_price_hybrid_p = installation_cost_premium_h+price_hybrid;
+            console.log('total_price_hybrid_p',total_price_hybrid_p)
+            total_price_hybrid_p.toFixed(2);
+            
+         }
+         else if(parseFloat($("input[id='excelium']:checked").val())){
+          var installation_cost_excelium_h = (nb_elevator_hybrid*parseFloat($("input[id='excelium']:checked").val()))*16/100;
+                  console.log('installation_cost_excelium_h',installation_cost_excelium_h);
+                  var total_price_hybrid_e = installation_cost_excelium_h+price_hybrid;
+                  console.log('total_price_hybrid_e',total_price_hybrid_e)
+          
+               }
+
+
+ return {'installation_cost_excelium_h':installation_cost_excelium_h,
+  'total_price_hybrid_e':total_price_hybrid_e,
+  'installation_cost_premium_h':installation_cost_premium_h,
+   'total_price_hybrid_p':total_price_hybrid_p,
+   'total_price_hybrid':total_price_hybrid,
+   'installation_cost_standard_h':installation_cost_standard_h,
+   'price_hybrid':price_hybrid,
+   'nb_column_hyb':nb_column_hyb,
+  'nb_elevato_hybrid':nb_elevator_hybrid,
+   'total_occupant_hyb':total_occupant_hyb,
+  'hybride': nb_hybride,
          'hybride_floor': nb_floor_hybride,
          'hybride_basement': nb_basement_hybride,
          'hybride_parking': nb_parking_hybride,
@@ -273,6 +364,12 @@ var installation_cost_premium = (nb_shaft_commercial*parseFloat($("input[id='pre
      }
      }
     }
+    
+    
+    // var elevator_shaft_residential  = document.getElementById("total").value;
+    // console.log("commercial_shaft",elevatorShaftCommercial);
+    // $('#average_elevators').html(elevatorShaftCommercial);
+ 
     
 
    
